@@ -1,4 +1,1 @@
-var dataDict = [
-    { "source": "CustomizeYourSource1", "definition": "sample definition 1", "optional": [{ "Sample Optional Information": "Unicode works: ❤ ☀ ☆ ☂ ☻ ♞ ☯ ☭ ☢ €" }], "word": "sample word 1", "sorting_form": [18], "entryID": "1", "audio": [{"filename": "https://www2.cs.uic.edu/~i101/SoundFiles/StarWars60.wav"}] },
-    { "source": "CustomizeYourSource2", "definition": "sample definition 2", "optional": [{ "Sample Optional Information": "Unicode works: ❤ ☀ ☆ ☂ ☻ ♞ ☯ ☭ ☢ €" }], "word": "sample word 2", "sorting_form": [18], "entryID": "2", "img": "https://via.placeholder.com/225?text=Sample+MTD+Image" }
-]
+var dataDict = [{"source": "Words", "definition": "red", "theme": "colour", "word": "ck\u02b7im", "sorting_form": [28, 36, 34, 38], "entryID": "0"}, {"source": "Words", "definition": "take it", "theme": "v.tr", "word": "k\u0313\u02b7ec\u0259t", "sorting_form": [36, 30, 28, 45], "entryID": "2"}, {"source": "Words", "definition": "salmonberry", "theme": "plant; food", "word": "lila\u0294", "sorting_form": [37, 34, 37, 26], "entryID": "1"}]
